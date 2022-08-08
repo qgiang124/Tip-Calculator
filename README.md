@@ -19,6 +19,8 @@ Here's a walkthrough of implemented user stories:
 
 ![ezgif-3-f77e096193](https://user-images.githubusercontent.com/99046066/183333595-bb87b362-3ed1-4cba-9d39-2fb4efa6f6ec.gif)
 
+##Notes
+This is my very first application using Swift to implement, which is so cool and spiring me to learn more about application and Swift.
 
 
 ## License
